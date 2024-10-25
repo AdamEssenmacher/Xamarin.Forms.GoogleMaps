@@ -11,7 +11,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>Xamarin.Forms.GoogleMaps.iOS</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
-    <AssemblyName>Xamarin.Forms.GoogleMaps.iOS</AssemblyName>
+    <AssemblyName>AdamE.Forms.GoogleMaps.iOS</AssemblyName>
     <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -75,8 +75,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Google.iOS.Maps">
-      <Version>6.0.1.1</Version>
+    <PackageReference Include="AdamE.Google.iOS.Maps">
+      <Version>9.1.1.2</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>

@@ -2,7 +2,7 @@
 <ContentPage 
     xmlns="http://xamarin.com/schemas/2014/forms" 
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
-    xmlns:map="clr-namespace:Xamarin.Forms.GoogleMaps;assembly=Xamarin.Forms.GoogleMaps"
+    xmlns:map="clr-namespace:Xamarin.Forms.GoogleMaps;assembly=AdamE.Forms.GoogleMaps"
     xmlns:cv="clr-namespace:XFGoogleMapSample"
     x:Class="XFGoogleMapSample.PinItemsSourcePage"
     Title="Pin with ItemsSource">

@@ -11,7 +11,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Xamarin.Forms.GoogleMaps.Android</RootNamespace>
-    <AssemblyName>Xamarin.Forms.GoogleMaps.Android</AssemblyName>
+    <AssemblyName>AdamE.Forms.GoogleMaps.Android</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <Deterministic>True</Deterministic>
     <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
